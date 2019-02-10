@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_first1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="集成一" />
+
+    <Button
+        android:id="@+id/btn_second1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btn_third1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btn_fourth1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btn_fifth1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btn_sixth1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="" />
+</LinearLayout>

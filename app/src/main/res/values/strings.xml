@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR_code</string>
+
+    <!--第一种方式-->
+    <integer name="viewfinder_border_width">4</integer>
+    <integer name="viewfinder_border_length">60</integer>
+</resources>
